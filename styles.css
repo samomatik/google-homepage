@@ -7,18 +7,40 @@
 
 .form_container{
     margin-top: 25px;
+    width: 500px;
     text-align: center;
     display: block;
     margin-left: auto;
     margin-right: auto;
 }
 
+
 .search_box{
     margin-top: 25px;
     width: 35em;
-    height: 2em;
+    height: 2.5em;
     text-align: center;
     display: block;
     margin-left: auto;
     margin-right: auto;
+    
+}
+
+.search_button {
+    margin-top: 25px;
+    width: 10em;
+    height: 3em;
+    border: 0;
+    background-color: #f2f2f2;
+    font-weight: bold;
+    color: gray;
+}
+
+.search_button:hover {
+    border-color: rgb(216,216,216);
+    border-style: solid;
+    border-width: 1px;
+    padding: 1px 7px 2px;
+    color: black;
+    border: 1;
 }
