@@ -98,8 +98,8 @@ ul {
       position: absolute;
       bottom: 0;
       background-color: #f2f2f2;
-      border-width: 1px;
-      border-color: gray;
+      border-top: 1px solid #e4e4e4;
+      
   }
 
   /* END FOOTER CSS */
